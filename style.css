@@ -1,0 +1,18 @@
+label{
+    color: aqua;
+}
+body{
+    background-image: linear-gradient(#eb3a34 20% , #ff7003 80%);
+}
+img{
+    border-radius: 50px;
+}
+#one{
+ margin-right: 800px;
+}
+#two{
+    margin-right: 150px;
+   }
+#three{
+    margin-left: 800px;
+   }
